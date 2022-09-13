@@ -3,6 +3,6 @@
 ## Sensor LED
 ### Por: Adrian de Jesus Cuevas Martinez
 ------
-![](LED Rojo.png)
+![](LEDRojo.jpg)
 
 
