@@ -10,4 +10,6 @@ emite un haz de luz. Trabaja como un diodo normal pero al recibir corriente elé
 trabajan aproximadamente con corriente de 2V. Para conectarlos a un voltaje distinto, se debe usar una
 resistencia.
 
+![](Led.jpg)
+
 
