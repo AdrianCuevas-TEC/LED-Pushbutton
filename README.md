@@ -47,6 +47,7 @@ Debido a que este tipo de Led posee una baja probabilidad de transición fotóni
 
 
 
+
 # Pushbutton
 El pulsador o pushbutton solo se abre o se cierra cuando el usuario lo presiona y lo mantiene presionado, mientras lo mantenemos pulsado el interruptor este permite el  paso de energía, o lo interrumpe al dejar de pulsar, esta compuesto en su mayoría, por 2 terminales o pines, estas terminales pueden estar o no en contacto eléctrico dependiendo de si el botón está siendo presionado o no
 
@@ -64,7 +65,7 @@ Normalmente abierto: Sus terminales no están en contacto eléctrico cuando el b
 Normalmente cerrado: Sus terminales están en contacto eléctrico cuando el botón no es presionado y dejan de tener contacto eléctrico cuando el botón es presionado.
 
 
-# Características:
+### Características:
 
 Utilizado como switch o interruptor al momento de ser presionado.
 
