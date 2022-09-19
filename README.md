@@ -64,7 +64,7 @@ Normalmente abierto: Sus terminales no están en contacto eléctrico cuando el b
 Normalmente cerrado: Sus terminales están en contacto eléctrico cuando el botón no es presionado y dejan de tener contacto eléctrico cuando el botón es presionado.
 
 
-#Características:
+# Características:
 
 Utilizado como switch o interruptor al momento de ser presionado.
 
