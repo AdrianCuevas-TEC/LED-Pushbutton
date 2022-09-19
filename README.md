@@ -25,11 +25,11 @@ El fenómeno de emisión de luz está basado en la teoría de banda por la cual 
 
 |  Material |  Longitud de Onda | Color  |   |   |
 |---|---|---|---|---|
-| GaAs : Zn  | 9000 A  |   |   |   |
-| GaAsP.4  |  6600 A |   |   |   |
-| GaAsP.5  | 6100 A |   |   |   |
-| GaAsP.85 : N  | 5900 A  |   |   |   |
-| GaP : N  | 5600 A  |   |   |   |
+| GaAs : Zn  | 9000 A  |  Infrarrojo |   |   |
+| GaAsP.4  |  6600 A | Rojo  |   |   |
+| GaAsP.5  | 6100 A | Ambar  |   |   |
+| GaAsP.85 : N  | 5900 A  | Amarillo  |   |   |
+| GaP : N  | 5600 A  | Verde  |   |   |
 
 
 
