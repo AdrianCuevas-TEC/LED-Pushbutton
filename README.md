@@ -23,11 +23,13 @@ Los Led están formados por el material semiconductor que está envuelto en un p
 ### Principio físico
 El fenómeno de emisión de luz está basado en la teoría de banda por la cual una tensión externa aplicada a una unión PN polarizada directamente se excitan los electrones de manera que son capaces de atravesar la banda de energía que separa las dos regiones de esta forma si la energía es suficiente los electrones escapan del material en forma de fotones, por esto mismo cada material semiconductor tiene unas determinadas características y por tanto una longitud de onda de la luz emitida.
 
-|  Material |   |   |   |   |
+|  Material |  Longitud de Onda | Color  |   |   |
 |---|---|---|---|---|
-| GaAs : Zn  |   |   |   |   |
-| GaAsP.4  |   |   |   |   |
-| GaAsP.5  |   |   |   |   |
+| GaAs : Zn  | 9000 A  |   |   |   |
+| GaAsP.4  |  6600 A |   |   |   |
+| GaAsP.5  | 6100 A |   |   |   |
+| GaAsP.85 : N  | 5900 A  |   |   |   |
+| GaP : N  | 5600 A  |   |   |   |
 
 
 
