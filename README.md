@@ -1,7 +1,6 @@
 # LED-Pushbutton
-# LED
-## Sensor LED
 ### Por: Adrian de Jesus Cuevas Martinez 19211623
+# LED
 ------
 ![](LEDRojo.jpg)
 
@@ -59,11 +58,24 @@ Para que el pulsador funcione debe tener un resorte o muelle que hace que vuelva
 El botón cuenta con cuatro terminales, los pines 1 y 2 están unidos internamente, así como los pines 3 y 4. Cuando pulsamos el botón, se realiza una conexión entre ellos
 
 Los push button pueden clasificarse en:
+
 Normalmente abierto: Sus terminales no están en contacto eléctrico cuando el botón no es presionado y entran en contacto eléctrico cuando el botón es presionado.
+
 Normalmente cerrado: Sus terminales están en contacto eléctrico cuando el botón no es presionado y dejan de tener contacto eléctrico cuando el botón es presionado.
 
 
+#Características:
 
+Utilizado como switch o interruptor al momento de ser presionado.
 
+Funciona como contacto normalmente abierto (NA).
 
- 
+Infinito número de aplicaciones.
+
+Aguanta hasta 50 A.
+
+Voltaje: 120 VDC/ 220 VAC.
+
+Tamaño muy reducido.
+
+4 pines amigables para usar en el protoboard.
