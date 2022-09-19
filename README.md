@@ -25,9 +25,9 @@ El fenómeno de emisión de luz está basado en la teoría de banda por la cual 
 
 |  Material |   |   |   |   |
 |---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| GaAs : Zn  |   |   |   |   |
+| GaAsP.4  |   |   |   |   |
+| GaAsP.5  |   |   |   |   |
 
 
 
