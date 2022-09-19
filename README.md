@@ -38,7 +38,6 @@ Uno formado por GaP(Galio) consiste en una unión PN obtenida por el cristal en 
 
 Uno constituido por GaAsP(fosfuro de arseniuro de galio) consiste en una capa p obtenida por difusión de Zn(zinc) durante el crecimiento de un cristal n de GaAsP, formado en un substrato de GaAs, por el método de crecimiento epitaxial en fase gaseosa.
  
-
 Led anaranjado y amarillo
 Están compuestos por GaAsP al igual que sus hermanos los rojos pero en este caso para conseguir luz anaranjada y amarilla así como luz de longitud de onda más pequeña, se amplía el ancho de la “banda prohibida” mediante el aumento de fósforo en el semiconductor.
 Su fabricación es la misma que se utiliza para los diodos rojos, por crecimiento epitaxial del cristal en fase gaseosa, la formación de la unión p-n se realiza por difusión de Zn.
@@ -47,18 +46,7 @@ Led Verde
 El Led verde está compuesto por GaP. Se utiliza el método de crecimiento epitaxial del cristal en fase líquida para formar la unión p-n.
 Debido a que este tipo de Led posee una baja probabilidad de transición fotónica, es importante mejorar la cristalinidad de la capa n. Su máxima emisión se consigue en la longitud de onda 555 nm
 
-### Consumo de energia
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+
 
 # Pushbutton
 El pulsador o pushbutton solo se abre o se cierra cuando el usuario lo presiona y lo mantiene presionado, mientras lo mantenemos pulsado el interruptor este permite el  paso de energía, o lo interrumpe al dejar de pulsar, esta compuesto en su mayoría, por 2 terminales o pines, estas terminales pueden estar o no en contacto eléctrico dependiendo de si el botón está siendo presionado o no
@@ -67,6 +55,13 @@ El pulsador o pushbutton solo se abre o se cierra cuando el usuario lo presiona 
 
 Al soltarlo vuelve a su posición inicial.
 Para que el pulsador funcione debe tener un resorte o muelle que hace que vuelva a la posición anterior después de presionarlo.
+
+El botón cuenta con cuatro terminales, los pines 1 y 2 están unidos internamente, así como los pines 3 y 4. Cuando pulsamos el botón, se realiza una conexión entre ellos
+
+Los push button pueden clasificarse en:
+Normalmente abierto: Sus terminales no están en contacto eléctrico cuando el botón no es presionado y entran en contacto eléctrico cuando el botón es presionado.
+Normalmente cerrado: Sus terminales están en contacto eléctrico cuando el botón no es presionado y dejan de tener contacto eléctrico cuando el botón es presionado.
+
 
 
 
