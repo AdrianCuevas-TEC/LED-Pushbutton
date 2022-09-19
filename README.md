@@ -20,7 +20,7 @@ La otra característica determinante que poseen los LED es una diferencia fundam
 
 Los Led están formados por el material semiconductor que está envuelto en un plástico translúcido o transparente según los modelos, el electrodo interno de menor tamaño es el ánodo y el de mayor tamaño es el cátodo.
 
-###Principio físico
+### Principio físico
 El fenómeno de emisión de luz está basado en la teoría de banda por la cual una tensión externa aplicada a una unión PN polarizada directamente se excitan los electrones de manera que son capaces de atravesar la banda de energía que separa las dos regiones de esta forma si la energía es suficiente los electrones escapan del material en forma de fotones, por esto mismo cada material semiconductor tiene unas determinadas características y por tanto una longitud de onda de la luz emitida.
 
 
