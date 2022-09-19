@@ -1,6 +1,6 @@
 # LED-Pushbutton
 ### Por: Adrian de Jesus Cuevas Martinez 19211623
-# LED
+![](LED.png)
 ------
 ![](LEDRojo.jpg)
 
@@ -8,8 +8,6 @@ Un diodo LED es un dispositivo que permite el paso de corriente en un solo senti
 emite un haz de luz. Trabaja como un diodo normal pero al recibir corriente eléctrica emite luz. Los LED
 trabajan aproximadamente con corriente de 2V. Para conectarlos a un voltaje distinto, se debe usar una
 resistencia.
-
-![](Led.jpg)
 
 Su funcionamiento es bastante simple pues se conecta la corriente al semiconductor superior del diodo LED lo cual permitirá el paso de corriente eléctrica y hará que el semiconductor emita luz, algo a tomar en cuenta es que según el material del que esté elaborado el semiconductor los diodos LED proyectarán luces de distintos colores.
 
@@ -48,7 +46,8 @@ Debido a que este tipo de Led posee una baja probabilidad de transición fotóni
 
 
 
-# Pushbutton
+![](PUSH.png)
+
 El pulsador o pushbutton solo se abre o se cierra cuando el usuario lo presiona y lo mantiene presionado, mientras lo mantenemos pulsado el interruptor este permite el  paso de energía, o lo interrumpe al dejar de pulsar, esta compuesto en su mayoría, por 2 terminales o pines, estas terminales pueden estar o no en contacto eléctrico dependiendo de si el botón está siendo presionado o no
 
 ![](Pushbotton.PNG)
