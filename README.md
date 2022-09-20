@@ -26,23 +26,7 @@ El fenómeno de emisión de luz está basado en la teoría de banda por la cual 
 | GaAsP.85 : N  | 5900 A  | Amarillo  |  
 | GaP : N  | 5600 A  | Verde  |  
 
-### Composición de los Leds
-Led Rojo
 
-Existen dos tipos de LED Rojo
-Uno formado por GaP(Galio) consiste en una unión PN obtenida por el cristal en su fase líquida, mientras que la fuente luminosa está formada por una capa de cristal p junto con un complejo de ZnO(óxido de zinc), cuya máxima concentración está limitada, por lo que su luminosidad se satura a altas densidades de corriente. 
-
-Uno constituido por GaAsP(fosfuro de arseniuro de galio) consiste en una capa p obtenida por difusión de Zn(zinc) durante el crecimiento de un cristal n de GaAsP, formado en un substrato de GaAs, por el método de crecimiento epitaxial en fase gaseosa.
- 
-Led anaranjado y amarillo
-
-Están compuestos por GaAsP al igual que sus hermanos los rojos pero en este caso para conseguir luz anaranjada y amarilla así como luz de longitud de onda más pequeña, se amplía el ancho de la “banda prohibida” mediante el aumento de fósforo en el semiconductor.
-Su fabricación es la misma que se utiliza para los diodos rojos, por crecimiento epitaxial del cristal en fase gaseosa, la formación de la unión p-n se realiza por difusión de Zn.
-
-Led Verde
-
-El Led verde está compuesto por GaP. Se utiliza el método de crecimiento epitaxial del cristal en fase líquida para formar la unión p-n.
-Debido a que este tipo de Led posee una baja probabilidad de transición fotónica, es importante mejorar la cristalinidad de la capa n. Su máxima emisión se consigue en la longitud de onda 555 nm
 
 
 ----
