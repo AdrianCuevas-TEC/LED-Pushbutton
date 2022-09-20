@@ -63,3 +63,4 @@ Voltaje: 120 VDC/ 220 VAC.
 Tamaño muy reducido.
 
 4 pines amigables para usar en el protoboard.
+
