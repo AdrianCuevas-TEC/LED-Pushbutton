@@ -29,15 +29,20 @@ El fenómeno de emisión de luz está basado en la teoría de banda por la cual 
 ### Simulacion
 
 main.py
+
 from machine import Pin
+
 import utime
 
 led = Pin(1, Pin.OUT)
 
 while True:
-     led.toggle()
-     utime.sleep(0.5)
 
+     led.toggle()
+     
+     utime.sleep(0.5)
+     
+![](ezgif.com-gif-maker.gif)
 
 
 
@@ -75,4 +80,15 @@ Voltaje: 120 VDC/ 220 VAC.
 Tamaño muy reducido.
 
 4 pines amigables para usar en el protoboard.
+
+### Simulacion
+from machine import Pin
+
+led = Pin(5, Pin.OUT)
+
+led.on()
+
+![](push1.gif)
+
+
 
