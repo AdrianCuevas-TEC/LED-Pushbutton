@@ -26,6 +26,18 @@ El fenómeno de emisión de luz está basado en la teoría de banda por la cual 
 | GaAsP.85 : N  | 5900 A  | Amarillo  |  
 | GaP : N  | 5600 A  | Verde  |  
 
+### Simulacion
+
+main.py
+from machine import Pin
+import utime
+
+led = Pin(1, Pin.OUT)
+
+while True:
+     led.toggle()
+     utime.sleep(0.5)
+
 
 
 
