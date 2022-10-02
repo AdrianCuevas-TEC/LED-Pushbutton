@@ -42,7 +42,7 @@ while True:
      
      utime.sleep(0.5)
      
-![](ezgif.com-gif-maker.gif)
+![image](https://github.com/AdrianCuevas-TEC/LED-Pushbutton/blob/main/ezgif.com-gif-maker.gif)
 
 
 
@@ -88,7 +88,7 @@ led = Pin(5, Pin.OUT)
 
 led.on()
 
-![](push1.gif)
+![image](https://github.com/AdrianCuevas-TEC/LED-Pushbutton/blob/main/push1.gif)
 
 
 
